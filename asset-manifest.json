@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/movei-app/static/css/main.01b5f7cc.chunk.css",
+    "main.js": "/movei-app/static/js/main.979eeddc.chunk.js",
+    "main.js.map": "/movei-app/static/js/main.979eeddc.chunk.js.map",
+    "runtime-main.js": "/movei-app/static/js/runtime-main.591262ee.js",
+    "runtime-main.js.map": "/movei-app/static/js/runtime-main.591262ee.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/movei-app/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.e5ed9678.chunk.js": "/movei-app/static/js/2.e5ed9678.chunk.js",
+    "static/js/2.e5ed9678.chunk.js.map": "/movei-app/static/js/2.e5ed9678.chunk.js.map",
+    "static/js/3.0c39b056.chunk.js": "/movei-app/static/js/3.0c39b056.chunk.js",
+    "static/js/3.0c39b056.chunk.js.map": "/movei-app/static/js/3.0c39b056.chunk.js.map",
+    "index.html": "/movei-app/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/movei-app/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.01b5f7cc.chunk.css.map": "/movei-app/static/css/main.01b5f7cc.chunk.css.map",
+    "static/js/2.e5ed9678.chunk.js.LICENSE.txt": "/movei-app/static/js/2.e5ed9678.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.591262ee.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.e5ed9678.chunk.js",
+    "static/css/main.01b5f7cc.chunk.css",
+    "static/js/main.979eeddc.chunk.js"
+  ]
+}
